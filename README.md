@@ -12,12 +12,12 @@ You'll see something like this:
 ```text
 repository/
 └── 1st semester/
-	└── discipline/
-	    └── 1st bimester/
-	        ├── Lesson 01
-		│   ├── file1
-		│   └── file2
-	        └── Lesson 02
-		    ├── file1
-		    └── file2
+    └── discipline/
+	└── 1st bimester/
+	    ├── Lesson 01
+	    │   ├── file1
+	    │   └── file2
+	    └── Lesson 02
+	        ├── file1
+		└── file2
 ```
