@@ -1,0 +1,10 @@
+Pesquisa sobre o protocolo TCP/IP
+
+Pesquise sobre o tema Protocolo TCP/IP. Elabore um relatório entre 20 a 30 linhas com breve resumo, seguido de reflexão crítica e conclusão, no qual fique estabelecida a relação entre o termo pesquisado o Modelo de referência OSI estudado na aula anterior. 
+
+Adicione em sua pesquisa:
+
+    Capa com nome do aluno, curso e disciplina	
+    Links das páginas e documentos utilizados na pesquisa.
+
+Enviar em documento de texto ou pdf.
