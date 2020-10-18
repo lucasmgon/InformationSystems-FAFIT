@@ -1,0 +1,33 @@
+1. Associe os termos a seguir com os textos:
+a) Camada Rede.
+b) Camada Aplicação.
+c) Endereço MAC.
+d) Camada Enlace.
+e) Endereço IP.
+f) Camada Transporte.
+g) http.
+h) Camada Física.
+
+( ) Corresponde aos endereços das redes e dos computadores e está especificado na camada
+de rede.
+( ) É a responsável pelo roteamento dos pacotes, de forma que conheçam a sua origem e o seu
+destino.
+( ) É o protocolo utilizado em páginas de hipertexto, como páginas da internet.
+( ) Recebe os quadros de bits 0 e 1 e os transforma em sinais que podem trafegar no meio
+físico.
+( ) É responsável por transformar os dados em pacotes e também pela entrega correta dos
+dados ao destinatário.
+( ) Os pacotes aqui são transformados em quadros, de modo que possam chegar a um
+computador com um endereço único exclusivo e assim possam ser encaminhados adiante.
+( ) É um endereço da placa de rede que nunca pode se repetir. Ele é único e exclusivo de cada
+fabricante.
+( ) É a camada mais próxima dos usuários que utilizam programas em rede ou internet. Nesta
+camada o usuário interage com protocolos que serão encapsulados nas camadas mais baixas.
+
+A.Considere a numeração possível num IP. Quantos números de IP
+podem ser obtidos com todas as combinações possíveis? Faça a
+mesma conta para o MAC. Compare os dois valores.
+
+B.Faça uma pesquisa sobre qual comando utilizado no prompt de
+comando do sistema operacional Windows para descobrir qual é o
+IP e MAC da sua máquina dentro da rede local.
